@@ -1,0 +1,29 @@
+{
+  "name": "sitemap",
+  "version": "1.0.0",
+  "description": "Generate sitemap.xml and sitemap_index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legalthings/gulp-addons.git"
+  },
+  "keywords": [
+    "gulp",
+    "addon",
+    "sitemap"
+  ],
+  "author": "Mitchel Kerckhaert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legalthings/gulp-addons/issues"
+  },
+  "homepage": "https://github.com/legalthings/gulp-addons#readme",
+  "dependencies": {
+    "config": "^3.2.4",
+    "gulp": "^4.0.2",
+    "jsdom": "^15.2.1"
+  }
+}
