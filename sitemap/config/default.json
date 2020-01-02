@@ -1,0 +1,5 @@
+{
+  BASE_PATH: "dist",
+  SITEMPA_TEMPLATE = "/dist/sitemap/index.html",
+  SITE_URL: "https://www.firm24.com"
+}
